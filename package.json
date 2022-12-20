@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Sample metadata API for crypto collectibles",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "start": "node index.js",
     "test": "node test.js"
@@ -10,7 +11,10 @@
   "author": "Alex Atallah <alex.atallah@opensea.io>",
   "license": "MIT",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "aws-sdk": "^2.1275.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "ethers": "^5.7.2",
     "express": "^4.16.4",
     "moment": "^2.22.2"
   },
@@ -19,6 +23,6 @@
     "tape": "^4.7.0"
   },
   "engines": {
-    "node": "8.11.2"
+    "node": "^16.17.0"
   }
 }
