@@ -2,6 +2,6 @@
   "name": "Metadata API for 1973s NFTs",
   "description": "Metadata API for 1973s crypto collectibles, written in Node.js",
   "repository": "https://github.com/quotethegeek/1973s-nft",
-  "logo": "https://storage.googleapis.com/opensea-rinkeby/0x7dca125b1e805dc88814aed7ccc810f677d3e1db.png",
-  "keywords": ["nft", "crypto", "opensea", "erc721", "erc1155", "node", "express", "static"]
+  "logo": "https://nftstorage.link/ipfs/bafybeieqg5awwtgvmsrqb2mkjxtpjzxvrayk7aieizsgt372dgjjlfctya",
+  "keywords": ["nft", "crypto", "1973", "erc721", "node", "express", "static"]
 }

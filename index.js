@@ -1,12 +1,3 @@
-// const express = require('express')
-// const path = require('path')
-// const ethers = require('ethers')
-// const { HOST } = require('./src/constants')
-// const db = require('./src/database')
-// const abi = require('./src/contract.json')
-// const { getFileStream } = require('./src/s3')
-// require('dotenv').config()
-
 import express from 'express'
 import path from 'path'
 import ethers from 'ethers'
@@ -26,12 +17,12 @@ async function getMetadata(id) {
   const tokenId = id.toString()
   const index = id - 1
   const artToken = db.data[index]
-  const video = artToken.video ? artToken.video : null
+  const video = artToken.video ? `${HOST}/assets/videos/${artToken.video}` : null
   const metadata = {
     'name': artToken.name,
     'attributes': artToken.attributes,
     'description': artToken.description,
-    'image': `${HOST}/api/assets/${tokenId}`
+    'image': `${HOST}/assets/images/${tokenId}`
   }
   video ? metadata['video'] = video : null
   return metadata
@@ -105,14 +96,41 @@ getTotalSupply().then((currentSupply) => {
     }
   })
 
-  app.get('/api/assets/:token_id', function(req, res) {
+  app.get('/assets/images/:token_id', function(req, res) {
     const tokenId = parseInt(req.params.token_id)
+    const index = tokenId - 1
     try {
-      if (totalSupply >= tokenId) {
-        const art = db.data[tokenId]
+      if (tokenId <= 0) {
+        res.status(404).send('Not Found')
+      } else if (totalSupply >= tokenId) {
+        const art = db.data[index]
         const imageKey = `assets/${art.image}`
         const image = getFileStream(imageKey)
         image.pipe(res)
+      } else {
+        res.status(403).send('Forbidden')
+      }
+    } catch (err) {
+      res.status(500).send(err)
+    }
+  })
+
+  app.get('/assets/videos/:token_id', function(req, res) {
+    const tokenId = parseInt(req.params.token_id)
+    const index = tokenId - 1
+    try {
+      if (tokenId <= 0) {
+        res.status(404).send('Not Found')
+      } else if (totalSupply >= tokenId) {
+        const art = db.data[index]
+        if (!art.video) {
+          res.status(404).send('Not Found')
+        } else {
+          const videoKey = `assets/${art.video}`
+          const video = getFileStream(videoKey)
+          res.setHeader('Content-Type', 'video/mp4');
+          video.pipe(res)
+        }
       } else {
         res.status(403).send('Forbidden')
       }

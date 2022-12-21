@@ -16,10 +16,15 @@ const s3 = new S3({
 
 // function that downloads the image from S3
 export function getFileStream(key) {
-    const params = {
-        Bucket: bucketName,
-        Key: key,
+    try {
+        const params = {
+            Bucket: bucketName,
+            Key: key,
+        }
+    
+        return s3.getObject(params).createReadStream()
+    } catch (error) {
+        console.log(error)
+        return error.message
     }
-
-    return s3.getObject(params).createReadStream()
 }

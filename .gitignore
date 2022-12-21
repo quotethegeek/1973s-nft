@@ -11,3 +11,8 @@ npm-debug.log
 Dockerfile
 docker-compose.yml
 .dockerignore
+
+# Elastic Beanstalk
+.elasticbeanstalk/
+
+.gitignore
