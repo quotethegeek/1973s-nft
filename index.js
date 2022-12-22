@@ -17,7 +17,7 @@ async function getMetadata(id) {
   const tokenId = id.toString()
   const index = id - 1
   const artToken = db.data[index]
-  const video = artToken.video ? `${HOST}/assets/videos/${artToken.video}` : null
+  const video = artToken.video ? `${HOST}/assets/videos/${tokenId}` : null
   const metadata = {
     'name': artToken.name,
     'attributes': artToken.attributes,
