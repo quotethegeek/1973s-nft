@@ -24,7 +24,7 @@ async function getMetadata(id) {
     'description': artToken.description,
     'image': `${HOST}/assets/images/${tokenId}`
   }
-  video ? metadata['video'] = video : null
+  video ? metadata['animation_url'] = video : null
   return metadata
 }
 
