@@ -1,2 +1,2 @@
-export const HOST = 'https://1973s.xyz'
+export const HOST = 'https://d35oe69e4mhs3f.cloudfront.net'
 // const HOST = 'localhost'
