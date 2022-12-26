@@ -105,13 +105,15 @@ getTotalSupply().then((currentSupply) => {
       } else if (totalSupply >= tokenId) {
         const art = db.data[index]
         const imageKey = `assets/${art.image}`
-        const image = getFileStream(imageKey)
+        const image = getFileStream(imageKey).on('error', function (error) {
+          res.status(502).send(error.message)
+        })
         image.pipe(res)
       } else {
         res.status(403).send('Forbidden')
       }
     } catch (err) {
-      res.status(500).send(err)
+      res.status(500).send(err.message)
     }
   })
 

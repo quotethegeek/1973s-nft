@@ -567,7 +567,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #41"
     },
     {
@@ -1295,7 +1295,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #94"
     },
     {
@@ -1821,7 +1821,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #133"
     },
     {
@@ -1888,7 +1888,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #138"
     },
     {
@@ -1959,7 +1959,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #143"
     },
     {
@@ -2311,7 +2311,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #169"
     },
     {
@@ -3446,7 +3446,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #252"
     },
     {
@@ -3999,7 +3999,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #291"
     },
     {
@@ -4310,7 +4310,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #314"
     },
     {
@@ -4706,7 +4706,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #342"
     },
     {
@@ -4774,7 +4774,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #347"
     },
     {
@@ -5076,7 +5076,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #369"
     },
     {
@@ -5783,7 +5783,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #421"
     },
     {
@@ -6004,7 +6004,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #437"
     },
     {
@@ -6240,7 +6240,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #454"
     },
     {
@@ -6344,7 +6344,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #461"
     },
     {
@@ -6396,7 +6396,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #465"
     },
     {
@@ -6900,7 +6900,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #502"
     },
     {
@@ -6965,7 +6965,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #507"
     },
     {
@@ -7049,7 +7049,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #513"
     },
     {
@@ -7147,7 +7147,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #520"
     },
     {
@@ -7523,7 +7523,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #547"
     },
     {
@@ -7562,7 +7562,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #550"
     },
     {
@@ -7756,7 +7756,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #564"
     },
     {
@@ -8556,7 +8556,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #622"
     },
     {
@@ -8569,7 +8569,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #623"
     },
     {
@@ -8684,7 +8684,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #631"
     },
     {
@@ -9291,7 +9291,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #675"
     },
     {
@@ -9535,7 +9535,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #693"
     },
     {
@@ -9580,7 +9580,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #696"
     },
     {
@@ -9861,7 +9861,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #716"
     },
     {
@@ -10959,7 +10959,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #795"
     },
     {
@@ -11509,7 +11509,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #834"
     },
     {
@@ -11685,7 +11685,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #847"
     },
     {
@@ -11750,7 +11750,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #852"
     },
     {
@@ -12054,7 +12054,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #874"
     },
     {
@@ -12298,7 +12298,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #892"
     },
     {
@@ -12907,7 +12907,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #936"
     },
     {
@@ -13011,7 +13011,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #944"
     },
     {
@@ -13172,7 +13172,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #956"
     },
     {
@@ -14299,7 +14299,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1036"
     },
     {
@@ -15150,7 +15150,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1098"
     },
     {
@@ -15422,7 +15422,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1118"
     },
     {
@@ -15461,7 +15461,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1121"
     },
     {
@@ -15615,7 +15615,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1132"
     },
     {
@@ -15716,7 +15716,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1139"
     },
     {
@@ -16600,7 +16600,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1203"
     },
     {
@@ -18319,7 +18319,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1327"
     },
     {
@@ -19160,7 +19160,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1387"
     },
     {
@@ -19614,7 +19614,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1419"
     },
     {
@@ -19692,7 +19692,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1425"
     },
     {
@@ -19955,7 +19955,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1444"
     },
     {
@@ -20247,7 +20247,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1465"
     },
     {
@@ -20276,7 +20276,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1467"
     },
     {
@@ -22015,7 +22015,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1593"
     },
     {
@@ -23270,7 +23270,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1683"
     },
     {
@@ -23410,7 +23410,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1693"
     },
     {
@@ -23572,7 +23572,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1705"
     },
     {
@@ -23672,7 +23672,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1712"
     },
     {
@@ -23928,7 +23928,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1731"
     },
     {
@@ -24447,7 +24447,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1768"
     },
     {
@@ -24502,7 +24502,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1772"
     },
     {
@@ -24583,7 +24583,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1778"
     },
     {
@@ -24980,7 +24980,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1807"
     },
     {
@@ -25190,7 +25190,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1822"
     },
     {
@@ -25418,7 +25418,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1839"
     },
     {
@@ -25598,7 +25598,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1852"
     },
     {
@@ -26417,7 +26417,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1911"
     },
     {
@@ -26693,7 +26693,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1931"
     },
     {
@@ -27061,7 +27061,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1957"
     },
     {
@@ -27523,7 +27523,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #1991"
     },
     {
@@ -28090,7 +28090,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2032"
     },
     {
@@ -28618,7 +28618,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2070"
     },
     {
@@ -28700,7 +28700,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2076"
     },
     {
@@ -28839,7 +28839,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2086"
     },
     {
@@ -29085,7 +29085,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2104"
     },
     {
@@ -29137,7 +29137,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2108"
     },
     {
@@ -30854,7 +30854,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2233"
     },
     {
@@ -30948,7 +30948,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2240"
     },
     {
@@ -31139,7 +31139,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2254"
     },
     {
@@ -32371,7 +32371,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2345"
     },
     {
@@ -32468,7 +32468,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2352"
     },
     {
@@ -32568,7 +32568,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2359"
     },
     {
@@ -33156,7 +33156,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2402"
     },
     {
@@ -33827,7 +33827,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2450"
     },
     {
@@ -33908,7 +33908,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2456"
     },
     {
@@ -35180,7 +35180,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2548"
     },
     {
@@ -35879,7 +35879,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2598"
     },
     {
@@ -36289,7 +36289,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2628"
     },
     {
@@ -36451,7 +36451,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2640"
     },
     {
@@ -38420,7 +38420,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2782"
     },
     {
@@ -38433,7 +38433,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2783"
     },
     {
@@ -40127,7 +40127,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2904"
     },
     {
@@ -40450,7 +40450,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2928"
     },
     {
@@ -41442,7 +41442,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #2999"
     },
     {
@@ -41537,7 +41537,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #3006"
     },
     {
@@ -42741,7 +42741,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #3093"
     },
     {
@@ -43263,7 +43263,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #3131"
     },
     {
@@ -44171,7 +44171,7 @@ export const db = {
         { "value": "2022", "trait_type": "Year" }
       ],
       "description": "'The 1973s Collection' is a community-led collection of 3,200 NFTs created and donated by 32 acclaimed artists across 15+ countries. The theme 'My Choice' is a response to the overturning of Roe v. Wade (1973) on June 24, 2022, by the US Supreme Court. All proceeds and secondary royalties benefit Planned Parenthood, a worldwide non-profit whose goals include providing reproductive education and healthcare to millions annually. We believe all women deserve equal rights and access to reproductive choices.\n\n'My Choice by The 1973s' is an ongoing sister collection with the same mission, available as 1/1 artworks.",
-      "image": "godzilla",
+      "image": "godzilla1.jpg",
       "name": "The 1973s Collection #3198"
     },
     {
