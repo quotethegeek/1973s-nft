@@ -3,7 +3,8 @@ import path from 'path'
 import ethers from 'ethers'
 import { HOST } from './src/constants.js'
 import { db } from './src/database.js'
-import { abi } from './src/contract.js'
+// import { abi } from './src/contract.js'
+import { abi } from './src/testnetContract.js'
 import { getFileStream } from './src/s3.js'
 import dotenv  from 'dotenv'
 dotenv.config()
@@ -11,7 +12,8 @@ const __dirname = path.resolve(path.dirname(''))
 
 const PORT = process.env.PORT || 5000
 const alchemyKey = process.env.ALCHEMY_API_KEY
-const contractAddress = '0xf47ecc3b549a1e96ffdbd3c1aa421936826f3be5'
+// const contractAddress = '0xf47ecc3b549a1e96ffdbd3c1aa421936826f3be5'
+const contractAddress = '0x96a91a069F2686B72dfBd19341b353A8804B730F'
 
 async function getMetadata(id) {
   const tokenId = id.toString()
@@ -29,13 +31,14 @@ async function getMetadata(id) {
 }
 
 async function getTotalSupply() {
-  const alchemyProvider = new ethers.providers.AlchemyProvider("mainnet", alchemyKey);
+  const alchemyProvider = new ethers.providers.AlchemyProvider("goerli", alchemyKey);
   const contract = new ethers.Contract(
     contractAddress, // contract address
     abi.data, // contract ABI
     alchemyProvider // blockchain node provider
   )
   const totalSupply = await contract.totalSupply();
+  console.log('totalSupply', ethers.BigNumber.from(totalSupply).toNumber())
   return ethers.BigNumber.from(totalSupply).toNumber();
 }
 
@@ -51,7 +54,7 @@ getTotalSupply().then((currentSupply) => {
   app.use(express.static(path.join(__dirname, 'public')))
 
   const webSocket = new ethers.providers.AlchemyWebSocketProvider(
-    "mainnet", // mainnet, rinkeby, etc
+    "goerli", // mainnet, rinkeby, etc
     alchemyKey // replace with your API key
   )
 
