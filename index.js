@@ -111,6 +111,7 @@ getTotalSupply().then((currentSupply) => {
         const image = getFileStream(imageKey).on('error', function (error) {
           res.status(502).send(error.message)
         })
+        res.setHeader('Content-Type', 'image/jpeg');
         image.pipe(res)
       } else {
         res.status(403).send('Forbidden')
@@ -132,7 +133,9 @@ getTotalSupply().then((currentSupply) => {
           res.status(404).send('Not Found')
         } else {
           const videoKey = `assets/${art.video}`
-          const video = getFileStream(videoKey)
+          const video = getFileStream(videoKey).on('error', function (error) {
+            res.status(502).send(error.message)
+          })
           res.setHeader('Content-Type', 'video/mp4');
           video.pipe(res)
         }
